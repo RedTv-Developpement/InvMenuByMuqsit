@@ -12,6 +12,7 @@
             "email": "hackhack05@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "extra": {
         "virion": {
             "spec": "3.0",
